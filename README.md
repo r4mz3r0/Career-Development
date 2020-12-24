@@ -11,3 +11,4 @@ Skills gained from becoming an I.T. professional
 4. Java Programming 
 5. JavaScript, TypeScript, Angular 
  - Creating tools to improve productivity 
+6. Software Quality Assurance 
